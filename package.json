@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "book-search-engine",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -12,7 +12,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/savbennett8/book-search-engine",
+  "repository": {
+    "type": "git",
+    "url": "git@work.github.com:savbennett8/book-search-engine.git"
+  },
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "if-env": "^1.0.4"
   }
 }
