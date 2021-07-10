@@ -31,7 +31,7 @@ This application uses the following dependencies:
 * Bootstrap
 
 ### Usage
-I deployed this application to the web using Heroku. Click [here](link) to check it out!
+I deployed this application to the web using Heroku. Click [here](https://frozen-lake-23648.herokuapp.com/) to check it out!
 
 ### License
 This project is licensed under the terms of the MIT license. Click [here](https://opensource.org/licenses/MIT) to view information about this license.
