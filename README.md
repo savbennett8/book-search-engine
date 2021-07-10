@@ -2,25 +2,36 @@
 # Book Search Engine
 
 ## Description
-Module 21 weekly challenge assignment. I refactored the code I was given to use GraphQL API's and Apollo instead of the RESTful API's that were already implemented. This website allows you to search for and keep a list of favorite books using Google's Book API.
+Module 21 weekly challenge assignment. I refactored the code I was given to use GraphQL API's and Apollo instead of the RESTful API's that were already implemented. This website allows you to search for and keep a list of favorite books using Google's Book API search.
 
 ## Table of Contents
-[Installation](link)
+[Installation](https://github.com/savbennett8/book-search-engine#installation)
 <br>
-[Usage](link)
+[Usage](https://github.com/savbennett8/book-search-engine#usage)
 <br>
-[License](link)
+[License](https://github.com/savbennett8/book-search-engine#license)
 <br>
-[Contributing](link)
+[Contributing](https://github.com/savbennett8/book-search-engine#contributing)
 <br>
-[Questions](link)
+[Questions](https://github.com/savbennett8/book-search-engine#questions)
 
 
 ### Installation
-
+This application uses the following dependencies:
+<br>
+* MongoDB/Mongoose
+* Express.js
+* React.js
+* Node.js
+* GraphQL
+* Apollo
+* JSON Web Tokens
+* bcrypt
+* Nodemon
+* Bootstrap
 
 ### Usage
-
+I deployed this application to the web using Heroku. Click [here](link) to check it out!
 
 ### License
 This project is licensed under the terms of the MIT license. Click [here](https://opensource.org/licenses/MIT) to view information about this license.
