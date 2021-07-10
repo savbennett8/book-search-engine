@@ -12,10 +12,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/savbennett8/book-search-engine",
+  "repository": {
+    "type": "git",
+    "url": "git@work.github.com:savbennett8/book-search-engine.git"
+  },
   "devDependencies": {
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "@apollo/client": "^3.3.20"
+    "@apollo/react-hooks": "^4.0.0",
+    "if-env": "^1.0.4"
   }
 }
